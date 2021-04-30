@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Whatsapp-React-Typescript-/static/css/main.49a60b62.chunk.css",
+    "main.js": "/Whatsapp-React-Typescript-/static/js/main.aa88fcd3.chunk.js",
+    "main.js.map": "/Whatsapp-React-Typescript-/static/js/main.aa88fcd3.chunk.js.map",
+    "runtime-main.js": "/Whatsapp-React-Typescript-/static/js/runtime-main.fe85931c.js",
+    "runtime-main.js.map": "/Whatsapp-React-Typescript-/static/js/runtime-main.fe85931c.js.map",
+    "static/js/2.13418bb0.chunk.js": "/Whatsapp-React-Typescript-/static/js/2.13418bb0.chunk.js",
+    "static/js/2.13418bb0.chunk.js.map": "/Whatsapp-React-Typescript-/static/js/2.13418bb0.chunk.js.map",
+    "static/js/3.422ffcaf.chunk.js": "/Whatsapp-React-Typescript-/static/js/3.422ffcaf.chunk.js",
+    "static/js/3.422ffcaf.chunk.js.map": "/Whatsapp-React-Typescript-/static/js/3.422ffcaf.chunk.js.map",
+    "index.html": "/Whatsapp-React-Typescript-/index.html",
+    "static/css/main.49a60b62.chunk.css.map": "/Whatsapp-React-Typescript-/static/css/main.49a60b62.chunk.css.map",
+    "static/js/2.13418bb0.chunk.js.LICENSE.txt": "/Whatsapp-React-Typescript-/static/js/2.13418bb0.chunk.js.LICENSE.txt",
+    "static/media/again.5085c9ba.png": "/Whatsapp-React-Typescript-/static/media/again.5085c9ba.png",
+    "static/media/friend.de077105.png": "/Whatsapp-React-Typescript-/static/media/friend.de077105.png",
+    "static/media/home.28971f03.png": "/Whatsapp-React-Typescript-/static/media/home.28971f03.png",
+    "static/media/logo.6ce24c58.svg": "/Whatsapp-React-Typescript-/static/media/logo.6ce24c58.svg",
+    "static/media/user.b5a08b5c.png": "/Whatsapp-React-Typescript-/static/media/user.b5a08b5c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe85931c.js",
+    "static/js/2.13418bb0.chunk.js",
+    "static/css/main.49a60b62.chunk.css",
+    "static/js/main.aa88fcd3.chunk.js"
+  ]
+}
